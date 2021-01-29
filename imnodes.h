@@ -1,8 +1,7 @@
 #pragma once
 
 #include <stddef.h>
-
-struct ImVec2;
+#include <imgui.h>
 
 namespace imnodes
 {
